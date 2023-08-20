@@ -1,4 +1,3 @@
 # Twitch-spark
 
-Analyzing chat sentiments in real-time using pyspark with a k-means 
-clustering model.
+Real-time Sentiment Analysis of Chat Conversations with PySpark
