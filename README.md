@@ -1,3 +1,3 @@
 # Twitch-spark
 
-Real-time Sentiment Analysis of Chat Conversations with PySpark
+Real-time Sentiment Analysis of Chat Conversations using PySpark
